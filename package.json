@@ -1,0 +1,26 @@
+{
+  "name": "animations-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnycool22/animations-app.git"
+  },
+  "author": "John_F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnycool22/animations-app/issues"
+  },
+  "homepage": "https://github.com/Johnnycool22/animations-app#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
