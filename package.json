@@ -18,7 +18,6 @@
   "bugs": {
     "url": "https://github.com/Johnnycool22/animations-app/issues"
   },
-  "homepage": "https://github.com/Johnnycool22/animations-app#readme",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
